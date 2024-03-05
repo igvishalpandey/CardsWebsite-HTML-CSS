@@ -19,4 +19,4 @@ This project is a basic static website created by following a tutorial from Sher
 Special thanks to [Sheryians Coaching School](https://www.youtube.com/@thesheryianscodingschool) for providing the tutorial and guidance to create this static website.
 
 ## Author
-This project is created by [Vishal Pandey].
+This project is created by Vishal Pandey.
